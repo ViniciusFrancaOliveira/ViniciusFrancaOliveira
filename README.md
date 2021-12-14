@@ -1,4 +1,4 @@
-### Hi there, I'm Vinicius França, a developer.
+### Hi there, I'm Vinicius França, a developer with focus on Back-End Web development.
 <div align="center">
   <a href="https://github.com/vingadorv">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vingadorv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
